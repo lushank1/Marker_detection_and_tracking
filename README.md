@@ -60,5 +60,37 @@ https://github.com/user-attachments/assets/c729c9f7-fb38-4bec-b7b0-d5254f164a47
 
 
 
+Console Output – (x, y) Pixel Coordinates
+
+The script prints detected object coordinates (top-left corner of bounding box) along with the ID. Example output in PyCharm console:
+
+yaml
+
+Copy
+
+Edit
+
+Marker ID: 1 | Coordinates: (x=120, y=250)
+
+Marker ID: 2 | Coordinates: (x=300, y=400)
+
+Marker ID: 3 | Coordinates: (x=550, y=600)
+
+
+
+Applications of (x, y) Coordinates
+
+The extracted (x, y) pixel coordinates can be used for:
+
+✅ Gait Analysis – Tracking joint movements in biomechanical studies.
+
+✅ Motion Analysis – Detecting marker displacement over time.
+
+✅ Data Visualization – Plotting trajectories of markers.
+
+
+
+
+
 
 
