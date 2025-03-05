@@ -89,6 +89,82 @@ The extracted (x, y) pixel coordinates can be used for:
 ✅ Data Visualization – Plotting trajectories of markers.
 
 
+🚀 Meet Lushank Shambharkar – A passionate researcher in Production & Industrial Engineering, specializing in biomechanics & gait analysis!
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+
+
+🎓 Education:
+
+📌 PhD (Ongoing) – Visvesvaraya National Institute of Technology
+
+📌 M.Tech  – Indian Institute of Engineering Science and Technology
+
+📌 B.E.  – RTMNU, JD College of Engineering & Management
+
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+
+💼 Experience:
+
+🔹 Industrial project on Lean Manufacturing at SABOO PLASTICS PVT. LTD.
+
+
+🔹 Training as System Engineer at INFOSYS LIMITED
+
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+
+🛠 Technical Skills:
+
+✅ AutoCAD, Creo, Catia
+
+✅ MATLAB, Python, Java
+
+✅ OpenSim, Minitab, Technomatix
+
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+
+📢 Notable Research & Publications:
+
+📌 Joint trajectory & kinematics on adjustable staircases (PhD)
+
+📌 Accuracy of optical motion capture systems (IEOM Conference)
+
+📌 Biomechanics of joints & orthopaedic implants (NPTEL)
+
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+
+🏆 Workshops & Certifications:
+
+🔹 Digital Manufacturing & Design (Coursera)
+
+🔹 AI & Computer Vision Trends (ATAL Academy) 
+
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+
+⚽ Extracurriculars:
+
+🏅 Football & Basketball competitions at NIT & VNIT
+
+
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+
+💡 Passionate about innovation, problem-solving, and research in biomechanics & motion capture accuracy.
+
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+
+📧 Connect with Lushank:
+
+🔗 LinkedIn: https://www.linkedin.com/in/lushank-shambharkar-874a64241/
+
+📩 Email: lushank@outlook.com
+
+🤖 Github: https://github.com/lushank1
+
+🧑‍💻 Hackerank: https://www.hackerrank.com/profile/lushank
+
+
+#Engineering #Biomechanics #MotionCapture #Research #Innovation 🚀
+
+
 
 
 
