@@ -49,13 +49,13 @@ Make sure you have:
 
 
 
-
-https://github.com/user-attachments/assets/002536ba-6370-4f71-adb3-87e399797abe
-
+![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/4bf121f6-5044-4421-8e6c-4746d4b8f223)   ![Untitled video - Made with Clipchamp (1)](https://github.com/user-attachments/assets/c353d758-df6f-4439-a6e3-4577d0645a0e)
 
 
 
-https://github.com/user-attachments/assets/c729c9f7-fb38-4bec-b7b0-d5254f164a47
+
+
+
 
 
 
